@@ -1,16 +1,15 @@
 # W3C TPAC Template
-Unsure why this isn't in the W3C Repo. I've copied the [zip file from the Template page](https://www.w3.org/2025/Talks/TPAC/Templates/) to here so that it is easier to track. It can also be found on [GitHub in a WebView-CG subdirectory](https://github.com/WebView-CG/tpac/tree/main/TPAC-2025).
 
-## My copy of the template
-[Overview.html](https://mgifford.github.io/w3c-tpac-template/Templates/Overview.html)
+I always forgot that in the [Template page](https://www.w3.org/2025/Talks/TPAC/Templates/) (from [TPAC Speaking guidelines](https://www.w3.org/2025/11/TPAC/speaking.html)), tapping "user manual" in the first page brings up a hidden section, where [zip file](https://www.w3.org/2025/Talks/TPAC/Templates/TPAC-2025-slides-template.zip) is provided.
 
-The presentation starts with an overview. To start the presentation, press play (at the bottom).
+Forking from GitHub is much easier.
 
-## Clone this repo
-The easiest way to make presentations for TPAC will be to just clone a repo (like this one) and then make your changes in GitHub. This way it can be better shared with others before/durring/after the event. 
+## How to export slides as PDF
 
-## GitHub Pages
-GitHub Pages makes the hosting easy. This of course can all be served locally too, as it is just HTML. 
+The only way I successfully export the correct format on the Mac:
 
-## Questions
-I don't know what the difference is between the [W3C's b6+](https://www.w3.org/Talks/Tools/b6plus/) and [Shower](https://shwr.me/), or why one would use one or the other. 
+1. Use Firefox, tap "Print…"
+2. **Tap "Print using the system dialog…"**
+3. **Change "Paper Size" to Custom Papers - "W3C_TPAC_Template"**
+4. Make sure "Orientation" is "Landscape"
+5. Tap PDF - "Save as PDF…"
